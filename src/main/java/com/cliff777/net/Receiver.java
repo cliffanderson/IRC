@@ -1,6 +1,6 @@
 package com.cliff777.net;
 
-import com.cliff777.chat.obj.ChatWindow;
+import com.cliff777.irc.obj.ChatWindow;
 
 import javax.swing.*;
 import java.io.BufferedReader;

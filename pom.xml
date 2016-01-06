@@ -15,7 +15,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>1.3</version>
                 <configuration>
-                    <mainClass>com.cliff777.chat.ChatMain</mainClass>
+                    <mainClass>com.cliff777.irc.ChatMain</mainClass>
                 </configuration>
             </plugin>
         </plugins>
